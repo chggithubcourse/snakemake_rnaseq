@@ -1,4 +1,5 @@
 # Description
+Add something new
 This is a repository for the snakemake version of the [bash RNASeq pipeline](https://github.com/chg-bsl/bash_rnaseq) compatible with the Clemson University's Center for Human Genetics (CUCHG) High Performance Computing (HPC) cluster.
 
 - *slurm/config.yaml*: config file for HPC architecture and slurm compatibility
